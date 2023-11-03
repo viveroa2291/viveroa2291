@@ -5,7 +5,7 @@ I am an enthusiastic entry-level developer with a focus on web development and a
 # Tech Stacks that I work with  
 
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-[![C++](https://img.shields.io/badge/C++-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)](https://github.com/viveroa2291/README.md)
+[![C++](https://img.shields.io/badge/C++-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/viveroa2291/README.md)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
 
 <!--
