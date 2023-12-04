@@ -1,5 +1,5 @@
 # Hi there, I'm Adan. 
-![](https://komarev.com/ghpvc/?viveroa2291&color=green)
+![](https://komarev.com/ghpvc/?username=viveroa2291&color=green)
 ![](https://komarev.com/ghpvc/?username=viveroa2291&label=PROFILE+VIEWS)
 
 I am an enthusiastic entry-level developer with a focus on web development and a passion for app development.
