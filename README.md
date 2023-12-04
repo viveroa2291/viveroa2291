@@ -2,6 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=viveroa2291&color=green)
 
+
 I am an enthusiastic entry-level developer with a focus on web development and a passion for app development.
 My experience, include the JUMP program that strengthened my skills in areas like SpringBoot, AWS, and database management, has nurtured adaptability and a strong drive for growth. 
 <!--
