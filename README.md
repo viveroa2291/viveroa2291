@@ -3,7 +3,7 @@
 
 # Hi there, I'm Adan. 
 
-I am an enthusiastic entry-level developer with a focus on web development and a passion for app development.
+I am an enthusiastic entry-level developer with a focus on web development and a passion for app development. I have been programming since the age of 18 and down below shows the programming languages that I'm most proficient in. 
 My experience, includes JUMP, which strengthened my skills in areas like SpringBoot, AWS, and database management, has nurtured adaptability and a strong drive for growth. 
 <!--
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveroa2291&layout=compact"/> 
