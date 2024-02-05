@@ -17,6 +17,7 @@ My experience, includes JUMP, which strengthened my skills in areas like SpringB
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/viveroa2291/README.md)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/viveroa2291/README.md)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
+![ReactBadge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <a href="https://github.com/viveroa2291/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=viveroa2291" />
