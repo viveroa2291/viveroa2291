@@ -9,15 +9,15 @@ My experience, includes JUMP, which strengthened my skills in areas like SpringB
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveroa2291&layout=compact"/> 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=viveroa2291&show_icons=true&theme=radical"/>
 -->
-![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-[![C++](https://img.shields.io/badge/C++-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/viveroa2291/README.md)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/viveroa2291/README.md)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/viveroa2291/README.md)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/viveroa2291/README.md)
+[![C++](https://img.shields.io/badge/C++-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/viveroa2291/README.md)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/viveroa2291/README.md)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/viveroa2291/README.md)
+![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![ReactBadge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/viveroa2291/README.md)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/viveroa2291/README.md)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
-![ReactBadge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <a href="https://github.com/viveroa2291/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=viveroa2291" />
