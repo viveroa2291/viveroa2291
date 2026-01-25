@@ -3,8 +3,9 @@
 
 # Hi there, I'm Adan. 
 
-I am an enthusiastic developer with a focus on web development and a passion for app development. I have been programming since the age of 18 and down below shows the programming languages that I'm most proficient in. 
-My experience, includes JUMP, which strengthened my skills in areas like SpringBoot, AWS, and database management, has nurtured adaptability and a strong drive for growth. 
+I'm an enthusiastic full-stack developer specializing in web development, with a deep passion for crafting apps. I've been coding since age 18 and bring strong proficiency across my core tech stack (see icons below). 
+My professional experience at Cognixia and Menards has deepened my expertise in Spring Boot, AWS, and database management while fostering adaptability and a relentless drive for continuous growth.
+
 <!--
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveroa2291&layout=compact"/> 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=viveroa2291&show_icons=true&theme=radical"/>
@@ -19,6 +20,7 @@ My experience, includes JUMP, which strengthened my skills in areas like SpringB
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/viveroa2291/README.md)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 
