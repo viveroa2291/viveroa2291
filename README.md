@@ -4,6 +4,7 @@
 # Hi there, I'm Adan. 
 
 I'm an enthusiastic full-stack developer specializing in web development, with a deep passion for crafting apps. I've been coding since age 18 and bring strong proficiency across my core tech stack (see icons below). 
+
 My professional experience at Cognixia and Menards has deepened my expertise in Spring Boot, AWS, and database management while fostering adaptability and a relentless drive for continuous growth.
 
 <!--
