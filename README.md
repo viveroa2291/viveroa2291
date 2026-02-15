@@ -30,5 +30,5 @@ My professional experience at Cognixia and Menards has deepened my expertise in 
 </a>
 
 <a href="https://github.com/viveroa2291/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viveroa2291&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=viveroa2291&layout=compact&langs_count=8&card_width=320" />
 </a>
